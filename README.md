@@ -12,4 +12,4 @@
     <img align="center" alt="Logo-vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
 
-<a href="#" style="cursor: default;" onclick="return false;"><img  width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2ea043&height=120&section=footer"></a>
+<a href="#" onclick="return false;"><img  width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2ea043&height=120&section=footer"></a>
